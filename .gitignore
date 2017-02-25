@@ -1,0 +1,2 @@
+# Ignore node_modules as package.json serves the purpose
+node_modules/
